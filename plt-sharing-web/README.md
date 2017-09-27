@@ -1,8 +1,8 @@
-# iview2-manage-system
+# iview2-vue
 
 基于Vue2 + iView2.0的后台管理系统解决方案简单示例.
 
-线上访问(不支持手机 / 已修复访问速度过慢的问题)：[电脑访问](www.pallet360.com)
+
 
 --------------
 
@@ -65,4 +65,4 @@ npm run build       // 生产部署
 ---------------
 
 ### License
-[MIT](https://opensource.org/licenses/MIT)
+[在线访问](www.pallet360.com)
